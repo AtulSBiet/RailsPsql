@@ -55,7 +55,7 @@ test:
 production:
   adapter: postgresql
   host: 192.168.2.53                      # VM IP    
-  port: 20389                      # VM Port   
+  port: 32299                      # VM Port   
   database: t         # Database Name    
-  username: afck0aqkixw4uygs             # User Name    
-  password: 'axs1ozen8u38euixxsj23as7zu9947rv'            # Password  
+  username: akqr91x8o7e7llrm             # User Name    
+  password: 'au73fi3honqpxxmx1h1bk2tlwdaaq9u8'            # Password  
